@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+**/__pycache__
+*.pyc
+*.pkl
+*.sdf
+/machine_learning_project_ideas/Drug Design
